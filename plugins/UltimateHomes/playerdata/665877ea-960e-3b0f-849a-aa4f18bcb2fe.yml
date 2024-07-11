@@ -1,0 +1,11 @@
+player:
+  info:
+    lastSeenAs: Gunpig
+homes:
+  home:
+    x: 1810
+    y: 207
+    z: -280
+    yaw: 98.517914
+    pitch: 40.33832
+    world: world
